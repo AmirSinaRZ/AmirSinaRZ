@@ -24,3 +24,5 @@ I'm currently diving into the exciting world of game development:
 I'm always eager to learn new skills, improve my existing ones, and work on projects that challenge me. Feel free to check out my repositories and see what I'm working on!
 
 Let's connect and build something amazing together!
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSinaRZ&hide=javascript,css,scss,html&theme=nord)
