@@ -25,4 +25,4 @@ I'm always eager to learn new skills, improve my existing ones, and work on proj
 
 Let's connect and build something amazing together!
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSinaRZ&langs_count=4&hide=javascript,css,scss,html,c&theme=nord)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSinaRZ&langs_count=3&hide=javascript,css,scss,html,c,cmake&theme=nord)
