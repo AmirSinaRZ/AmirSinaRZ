@@ -1,6 +1,3 @@
-<!-- Header Image -->
-![Header](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1574024073167-PRLTM8P9IEOI4Q6EZQYO/Desert.gif)
-
 ## Hello, I'm AmirSina <img width="25" src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" />
 
 I'm a passionate developer with experience in various programming languages and frameworks. I enjoy crafting efficient and elegant solutions.
