@@ -1,0 +1,18 @@
+<svg width="87" height="32" viewBox="0 0 87 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Right side background -->
+  <path d="M82 0H31V32H82C84.7614 32 87 29.7614 87 27V5C87 2.23858 84.7614 0 82 0Z" fill="#0F1418"/>
+  <!-- Left side background -->
+  <path d="M31 0H5C2.23858 0 0 2.23858 0 5V27C0 29.7614 2.23858 32 5 32H31V0Z" fill="#00599C"/>
+  <!-- C logo -->
+  <path d="M15.5 4C9.14873 4 4 9.14873 4 15.5C4 21.8513 9.14873 27 15.5 27C19.6235 27 23.222 24.937 25.25 21.75L21.5 19.5C20.3333 21.3333 18.0833 22.5 15.5 22.5C11.9101 22.5 9 19.5899 9 16C9 12.4101 11.9101 9.5 15.5 9.5C18.0833 9.5 20.3333 10.6667 21.5 12.5L25.25 10.25C23.222 7.06297 19.6235 5 15.5 5V4Z" fill="white"/>
+  <!-- Text "C" on right -->
+  <text x="48" y="21" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="white" font-weight="bold">C</text>
+  <!-- Overlay gradient -->
+  <path d="M82 0H5C2.23858 0 0 2.23858 0 5V27C0 29.7614 2.23858 32 5 32H82C84.7614 32 87 29.7614 87 27V5C87 2.23858 84.7614 0 82 0Z" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BBBBBB" stop-opacity="0.1"/>
+      <stop offset="1" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+</svg>
