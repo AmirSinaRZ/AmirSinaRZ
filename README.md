@@ -1,35 +1,56 @@
 ## Hello, I'm AmirSina <img width="25" src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" />
 
-I'm a passionate developer with experience in various programming languages and frameworks. I enjoy crafting efficient and elegant solutions.
+I am a computer engineer, and I am learning and working in the fields of networking, softwares, and security.
 
-## 🛠️ About Me
+### Languages
 
-- **Programming Languages:**  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-178701?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-  ![Clojure](https://img.shields.io/badge/Clojure-DC5854?style=for-the-badge&logo=clojure&logoColor=white)
+<a href="#">
+    <img src="java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="kotlin.svg" alt="Kotlin" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="cpp.svg" alt="Cpp" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="csharp.svg" alt="cs" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="c.svg" alt="c" style="vertical-align:top margin:6px 4px">
+</a>
 
-- **Tools, Libraries, and Frameworks:**  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-  ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![libGDX](https://img.shields.io/badge/libGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-  ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-000000?style=for-the-badge&logo=apachetomcat&logoColor=white)
-  ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+### Tools
 
-## 📈 GitHub Stats
+<a href="#">
+    <img src="spring.svg" alt="s" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="jetbrains_intellij.svg" alt="ji" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="jetbrains_clion.svg" alt="jc" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="compose.svg" alt="c" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="jetbrains_rider.svg" alt="jr" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="android_studio.svg" alt="as" style="vertical-align:top margin:6px 4px">
+</a>
 
-![Sina](https://github-readme-stats.vercel.app/api?username=AmirSinaRZ&show_icons=true&theme=graywhite)
 
-## 📫 Let's Connect
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirsinarz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://notyet.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirsinarazghandy@example.com)
 
-- [amirsinarazghandy@gmail.com](amirsinarazghandy@gmail.com)
+
+
+<p align="center">
+اگر شیرینی را در دل خود بیابید،<br>
+آن را در هر دلی خواهید یافت..<br>
+<em>— مولانا</em>
+</p>
